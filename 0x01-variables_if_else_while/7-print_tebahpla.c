@@ -1,6 +1,6 @@
 /*
  * File: 7-print_tebahpla.c
- * Auth: Ilhan Mohamed 
+ * Auth: Ilhan Mohamed
  */
 
 #include <stdio.h>
