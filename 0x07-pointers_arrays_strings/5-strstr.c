@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * Author: Justine-Njuguna
+ * Author: Ilhan Mohamed
  * *_strstr - locates a substring
  * @haystack: string to search in
  * @needle: substring to look for
@@ -25,4 +25,5 @@ char *_strstr(char *haystack, char *needle)
 			return (&haystack[i]);
 	}
 	return (NULL);
+
 }

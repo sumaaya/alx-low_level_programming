@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * Author: Justine-Njuguna
+ * Author: ilhan mohamed
  * *_strspn - gets the length of a prefix substring
  * @s: string to evaluate
  * @accept: string containing the list of characters to match in s
@@ -31,6 +31,7 @@ unsigned int _strspn(char *s, char *accept)
 			return (f);
 		}
 	}
+
 
 	return (0);
 }

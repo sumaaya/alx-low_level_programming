@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * Author: Justine-Njuguna :)
+ * Author: Ilhan Mohamed
  * *_memset - fills memory with a constant byte
  * @s: memory area to be filled
  * @b: char to copy
@@ -19,4 +19,5 @@ char *_memset(char *s, char b, unsigned int n)
 	}
 
 	return (s);
+
 }
